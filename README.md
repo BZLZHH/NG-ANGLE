@@ -1,3 +1,5 @@
+**This project is only an EXPERIMENTAL project.**
+
 # ANGLE - Almost Native Graphics Layer Engine
 
 The goal of ANGLE is to allow users of multiple operating systems to seamlessly run WebGL and other
